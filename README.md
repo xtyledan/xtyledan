@@ -8,7 +8,7 @@ Whether it's battling through virtual realms or teaming up with friends for some
 
 Currently what I'm learning
 -
-![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)
+[![Built with Astro](https://astro.badg.es/v2/built-with-astro/small.svg)](https://astro.build)
 
 What I use for my projects
 -
