@@ -1,6 +1,6 @@
 About Me [![Generic badge](https://img.shields.io/badge/Updated-03/12/2023-<COLOR>.svg)](https://shields.io/)
 -
-I'm Ty Daniels, a 23-year-old computer science enthusiast hailing from California. I graduated with a degree in Computer Science from Southern New Hampshire University 23'. My journey into the world of technology has been an exciting one, filled with countless opportunities for learning and growth. 
+I'm Tyler Daniels, a 23-year-old computer science enthusiast hailing from California. I graduated with a degree in Computer Science from Southern New Hampshire University 23'. My journey into the world of technology has been an exciting one, filled with countless opportunities for learning and growth. 
 
 I have a deep appreciation for music, enjoying everything from classic rock to electronic beats. Seafood aficionado? Absolutely.
 
