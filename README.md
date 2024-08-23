@@ -1,14 +1,10 @@
-About Me [![Generic badge](https://img.shields.io/badge/Updated-03/12/2023-<COLOR>.svg)](https://shields.io/)
+About Me [![Generic badge](https://img.shields.io/badge/Updated-08/23/2024-<COLOR>.svg)](https://shields.io/)
 -
-I'm Tyler Daniels, a 23-year-old computer science enthusiast hailing from California. I graduated with a degree in Computer Science from Southern New Hampshire University 23'. My journey into the world of technology has been an exciting one, filled with countless opportunities for learning and growth. 
+I'm Tyler Daniels, a Computer Science enthusiast hailing from California. I graduated with a degree in Computer Science from Southern New Hampshire University 23'. My journey into the world of technology has been an exciting one, filled with countless opportunities for learning and growth. 
 
 I have a deep appreciation for music, enjoying everything from classic rock to electronic beats. Seafood aficionado? Absolutely.
 
 Whether it's battling through virtual realms or teaming up with friends for some multiplayer action, gaming has always been a beloved pastime of mine. If you have any questions feel free to contact me!
-
-Currently what I'm learning
--
-[![Built with Astro](https://astro.badg.es/v2/built-with-astro/small.svg)](https://astro.build)
 
 What I use for my projects
 -
