@@ -1,10 +1,8 @@
-About Me [![Generic badge](https://img.shields.io/badge/Updated-08/23/2024-<COLOR>.svg)](https://shields.io/)
+About Me [![Generic badge](https://img.shields.io/badge/Updated-10/26/2024-<COLOR>.svg)](https://shields.io/)
 -
-I'm Tyler Daniels, a Computer Science enthusiast hailing from California. I graduated with a degree in Computer Science from Southern New Hampshire University 23'. My journey into the world of technology has been an exciting one, filled with countless opportunities for learning and growth. 
+I'm Tyler Daniels, a Computer Science enthusiast based in California, currently completing my Bachelor’s in Computer Science with a focus on Software Engineering at Southern New Hampshire University.
 
-I have a deep appreciation for music, enjoying everything from classic rock to electronic beats. Seafood aficionado? Absolutely.
-
-Whether it's battling through virtual realms or teaming up with friends for some multiplayer action, gaming has always been a beloved pastime of mine. If you have any questions feel free to contact me!
+I am passionate about advancing technology with hands-on expertise in system engineering, process automation, and AI-driven solutions. My journey into tech has been a thrilling one, full of continuous learning and impactful projects, from optimizing IT resource management to engineering inventory systems that enhance efficiency and reduce costs.
 
 What I use for my projects
 -
