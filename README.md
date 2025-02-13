@@ -1,4 +1,4 @@
-About Me [![Generic badge](https://img.shields.io/badge/Updated-10/26/2024-<COLOR>.svg)](https://shields.io/)
+About Me
 -
 I'm Tyler Daniels, a Computer Science enthusiast based in California, currently completing my Bachelor’s in Computer Science with a focus on Software Engineering at Southern New Hampshire University.
 
