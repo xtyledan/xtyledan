@@ -1,17 +1,29 @@
-About Me
--
-I'm Tyler Daniels, a Computer Science enthusiast based in California, currently completing my Bachelor’s in Computer Science with a focus on Software Engineering at Southern New Hampshire University.
+# Hello there, I’m Tyler Daniels!  
 
-I am passionate about advancing technology with hands-on expertise in system engineering, process automation, and AI-driven solutions. My journey into tech has been a thrilling one, full of continuous learning and impactful projects, from optimizing IT resource management to engineering inventory systems that enhance efficiency and reduce costs.
+Welcome to my GitHub profile! I'm an IT professional with a strong background in inventory management, process automation, and field support. Currently, I’m working at Amazon as an IT Equipment Coordinator where I’ve improved resource efficiency by implementing streamlined inventory systems, automated RMA tracking, and optimized vendor selection. Prior to that, I served as a Field Technician at Twisted Kelp, focusing on predictive maintenance strategies and rapid-response protocols.
 
-What I use for my projects
--
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white) 
+## 🎓 Education
+- **Bachelor’s Degree in Computer Science** (in progress)  
+  *Southern New Hampshire University* (Expected completion: October 2025)
 
-My Favorites 
--
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white) ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+- **Associate’s Degree in Computer Science**  
+  *Southern New Hampshire University* (Completed January 2024)
 
-Contact
--
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
+## ⚙️ Skills & Tools
+- **Software Design** | **Process Automation** | **Data Analysis** | **Troubleshooting** | **Issue Resolution**  
+- **Programming Languages**: Python, C++, Java  
+- **Systems & Platforms**: Git, AWS, Linux, Agile Methodologies
+
+## ✨ Highlights
+- Decreased warranty repair downtime by 40% and saved 100+ monthly administrative hours through automated tracking systems.
+- Increased equipment uptime by 20% via predictive maintenance strategies and introduced real-time data capture tools for quicker decision-making.
+- Pursuing advanced knowledge in secure coding, software reverse engineering, and UI/UX design as part of my ongoing bachelor’s program.
+
+## 🏆 Certifications
+- **OSHA 10-Hour Construction Industry Training**
+
+Feel free to explore my repositories for various projects and experiments in software development, data analysis, and automation. I’m always looking to learn, collaborate, and grow my skill set!
+
+---
+**Contact Me**  
+Email: [Tdaniels3526@gmail.com](mailto:Tdaniels3526@gmail.com)
