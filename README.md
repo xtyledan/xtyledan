@@ -21,9 +21,3 @@ Welcome to my GitHub profile! I'm an IT professional with a strong background in
 
 ## 🏆 Certifications
 - **OSHA 10-Hour Construction Industry Training**
-
-Feel free to explore my repositories for various projects and experiments in software development, data analysis, and automation. I’m always looking to learn, collaborate, and grow my skill set!
-
----
-**Contact Me**  
-Email: [Tdaniels3526@gmail.com](mailto:Tdaniels3526@gmail.com)
