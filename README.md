@@ -1,8 +1,59 @@
+
 # Tyler Daniels
 
-### A passionate developer
+### Software Engineering | Automation | Backend Development
 
-- ⚡ **Fun fact**: The first computer “bug” recorded in computing history was an actual insect
+M.S. Computer Science Candidate, Software Engineering Concentration  
+Southern New Hampshire University
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+Mechatronics and robotics professional with a background in computer science, industrial automation, and software development.
+
+I focus on developing reliable backend systems, automation tools, and applications that connect software with real-world engineering problems.
+
+[Portfolio](https://xtyledan.github.io/) · [LinkedIn](https://www.linkedin.com/in/tyler-daniels2000/) · [GitHub](https://github.com/xtyledan)
+
+---
+
+## Technical Skills
+
+**Languages:** Python, Java, JavaScript, TypeScript, SQL
+
+**Backend:** FastAPI, REST APIs, Spring Boot, Node.js
+
+**Frontend:** HTML, CSS, React, Vue
+
+**Databases:** PostgreSQL, MySQL, MongoDB
+
+**Tools:** Git, GitHub Actions, Docker, Linux, VS Code
+
+**Engineering:** Industrial Automation, Electrical Systems, Motor Controls, Troubleshooting
+
+---
+
+## Featured Work
+
+### Graduate Software Engineering Portfolio
+Coursework and applied software projects covering operating systems, artificial intelligence, data visualization, UI/UX, and software engineering.
+
+[View Repository](https://github.com/xtyledan/ms-computer-science-coursework)
+
+### Java Testing and Software Quality
+Java service implementations and unit tests covering application behavior, validation, and software reliability.
+
+[View Repository](https://github.com/xtyledan/Ensuring-Reliable-Secure-and-User-Centric-Software-Solutions)
+
+---
+
+## Engineering Interests
+
+- Backend architecture and API development
+- Industrial automation and control systems
+- Software testing and secure development
+- Artificial intelligence and data analytics
+- CI/CD and developer automation
+
+---
+
+## Current Focus
+
+Building and refining software projects that demonstrate production-oriented development practices, including testing, documentation, security, and maintainable architecture.
