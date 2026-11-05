@@ -3,7 +3,7 @@
 
 ### Software Engineering | Automation | Backend Development
 
-M.S. Computer Science Candidate, Software Engineering Concentration  
+M.S. Computer Science Student, Software Engineering Concentration  
 Southern New Hampshire University
 
 Mechatronics and robotics professional with a background in computer science, industrial automation, and software development.
