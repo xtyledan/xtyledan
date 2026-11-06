@@ -14,13 +14,15 @@ Computer science graduate pursuing an M.S. in Computer Science (Software Enginee
 A Python desktop tool for arranging Tkinter interfaces visually, previewing layouts, storing JSON projects, and generating standalone Python code. Includes regression tests for source generation and project-file validation.
 
 **Stack:** Python · Tkinter · JSON · unittest · GitHub Actions  
-**Run locally:** `python main.py` (desktop environment required)
+**Run locally:** `python main.py` (desktop environment required)  
+[Actual application screenshot](https://github.com/xtyledan/TkForge-Visual-Tkinter-GUI-Builder/blob/main/docs/screenshot.png) · [Automated tests](https://github.com/xtyledan/TkForge-Visual-Tkinter-GUI-Builder/actions/workflows/python-tests.yml)
 
 ### [Animal Rescue Explorer — Local Data Dashboard](https://github.com/xtyledan/Animal-Rescue-Explorer-Local-Data-Dashboard)
 A filterable local dashboard with a Python HTTP API, visual summaries, and synthetic sample records. Includes a separate MongoDB CRUD adapter and automated tests; no database is needed to try the demo.
 
 **Stack:** Python · HTML/CSS/JavaScript · MongoDB (optional) · unittest · GitHub Actions  
-**Run locally:** `python standalone_dashboard.py`
+**Run locally:** `python standalone_dashboard.py`  
+[Actual dashboard screenshot](https://github.com/xtyledan/Animal-Rescue-Explorer-Local-Data-Dashboard/blob/main/docs/screenshot.png) · [Automated tests](https://github.com/xtyledan/Animal-Rescue-Explorer-Local-Data-Dashboard/actions/workflows/python-tests.yml)
 
 ### [Java Service Testing — Appointment, Contact & Task Management](https://github.com/xtyledan/Java-Service-Testing-Appointment-Contact-Task-Management)
 Java domain objects and service implementations backed by JUnit 5 tests covering validation and expected behavior. A focused testing project, not a deployed service.
