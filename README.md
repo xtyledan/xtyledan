@@ -1,38 +1,43 @@
 # Tyler Daniels
 
-**Software Engineering | Backend Development | Industrial Automation**
+**Software Engineering · Python Development · Industrial Automation**
 
-Computer science graduate pursuing an M.S. in Computer Science (Software Engineering) at Southern New Hampshire University. I work with mechatronics, robotics, and industrial automation systems, and build software that emphasizes practical use, maintainability, and testing.
+Computer science graduate pursuing an M.S. in Computer Science (Software Engineering) at Southern New Hampshire University. My experience includes mechatronics, robotics and industrial troubleshooting. I build practical applications and document how they work, how to run them and what still needs improvement.
 
-**Core technologies:** Python · Java · JavaScript · TypeScript · SQL · REST APIs · Git · GitHub Actions · Docker
+[Portfolio website](https://xtyledan.github.io/) · [LinkedIn](https://www.linkedin.com/in/tyler-daniels2000/) · [All repositories](https://github.com/xtyledan?tab=repositories)
 
-[Portfolio](https://xtyledan.github.io/) · [LinkedIn](https://www.linkedin.com/in/tyler-daniels2000/) · [Repositories](https://github.com/xtyledan?tab=repositories)
+## Featured work
 
-## Selected Projects
+### [TkForge | Visual Tkinter GUI Builder](https://github.com/xtyledan/TkForge-Visual-Tkinter-GUI-Builder)
 
-### [TkForge — Visual Tkinter GUI Builder](https://github.com/xtyledan/TkForge-Visual-Tkinter-GUI-Builder)
-A Python desktop tool for arranging Tkinter interfaces visually, previewing layouts, storing JSON projects, and generating standalone Python code. Includes regression tests for source generation and project-file validation.
+![Real TkForge desktop editor](https://raw.githubusercontent.com/xtyledan/TkForge-Visual-Tkinter-GUI-Builder/main/docs/screenshot.png)
 
-**Stack:** Python · Tkinter · JSON · unittest · GitHub Actions  
-**Run locally:** `python main.py` (desktop environment required)  
-[Actual application screenshot](https://github.com/xtyledan/TkForge-Visual-Tkinter-GUI-Builder/blob/main/docs/screenshot.png) · [Automated tests](https://github.com/xtyledan/TkForge-Visual-Tkinter-GUI-Builder/actions/workflows/python-tests.yml)
+Build layouts visually, adjust widget properties, preview interfaces and export Python/Tkinter source. Includes validated JSON project files and headless regression tests.
 
-### [Animal Rescue Explorer — Local Data Dashboard](https://github.com/xtyledan/Animal-Rescue-Explorer-Local-Data-Dashboard)
-A filterable local dashboard with a Python HTTP API, visual summaries, and synthetic sample records. Includes a separate MongoDB CRUD adapter and automated tests; no database is needed to try the demo.
+**Python · Tkinter · JSON · GitHub Actions**  
+[Run locally](https://github.com/xtyledan/TkForge-Visual-Tkinter-GUI-Builder#quick-start) · [Test workflow](https://github.com/xtyledan/TkForge-Visual-Tkinter-GUI-Builder/actions/workflows/python-tests.yml)
 
-**Stack:** Python · HTML/CSS/JavaScript · MongoDB (optional) · unittest · GitHub Actions  
-**Run locally:** `python standalone_dashboard.py`  
-[Actual dashboard screenshot](https://github.com/xtyledan/Animal-Rescue-Explorer-Local-Data-Dashboard/blob/main/docs/screenshot.png) · [Automated tests](https://github.com/xtyledan/Animal-Rescue-Explorer-Local-Data-Dashboard/actions/workflows/python-tests.yml)
+### [Animal Rescue Explorer | Filterable Data Dashboard](https://github.com/xtyledan/Animal-Rescue-Explorer-Local-Data-Dashboard)
 
-### [Java Service Testing — Appointment, Contact & Task Management](https://github.com/xtyledan/Java-Service-Testing-Appointment-Contact-Task-Management)
-Java domain objects and service implementations backed by JUnit 5 tests covering validation and expected behavior. A focused testing project, not a deployed service.
+![Actual Animal Rescue Explorer local dashboard](https://raw.githubusercontent.com/xtyledan/Animal-Rescue-Explorer-Local-Data-Dashboard/main/docs/screenshot.png)
 
-**Stack:** Java · JUnit 5
+Explore fictional shelter records with filters, counts, charts and location links. Runs locally using bundled synthetic data; MongoDB is optional.
 
-## Background
+**Python · HTTP API · HTML/CSS/JavaScript · unittest**  
+[Run locally](https://github.com/xtyledan/Animal-Rescue-Explorer-Local-Data-Dashboard#quick-start) · [Test workflow](https://github.com/xtyledan/Animal-Rescue-Explorer-Local-Data-Dashboard/actions/workflows/python-tests.yml)
 
-- **Education:** B.S. in Computer Science; M.S. in Computer Science (Software Engineering), in progress
-- **Industry:** Mechatronics, robotics, electrical systems, motor controls, industrial maintenance, and troubleshooting
-- **Additional work:** [Graduate computer science coursework](https://github.com/xtyledan/ms-computer-science-coursework)
+### [Java Service Testing | Appointments, Contacts and Tasks](https://github.com/xtyledan/Java-Service-Testing-Appointment-Contact-Task-Management)
 
-Each featured project links to its source, setup instructions, limitations, and implementation decisions. Projects described as local applications are not claimed to be publicly deployed.
+Java domain services with input validation and JUnit 5 tests. The repository documents source code, Maven setup, limitations and test execution.
+
+**Java · JUnit 5 · Maven · GitHub Actions**  
+[Run tests](https://github.com/xtyledan/Java-Service-Testing-Appointment-Contact-Task-Management#run-the-tests) · [CI](https://github.com/xtyledan/Java-Service-Testing-Appointment-Contact-Task-Management/actions/workflows/java-tests.yml)
+
+## Engineering background
+
+- **Education:** B.S. in Computer Science; M.S. in Computer Science, Software Engineering concentration (in progress).
+- **Experience:** Industrial automation, mechatronics, robotics, electrical systems, motors, sensors and troubleshooting.
+- **Interests:** Maintainable backend systems, software quality, practical tooling and data visualization.
+- **Additional work:** [Graduate computer science coursework](https://github.com/xtyledan/ms-computer-science-coursework) and [public portfolio website](https://github.com/xtyledan/xtyledan.github.io).
+
+The images above are captured from real application runs, not conceptual renders. The showcased applications are local projects, not advertised as production deployments.
