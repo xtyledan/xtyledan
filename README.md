@@ -1,59 +1,23 @@
-
 # Tyler Daniels
 
-### Software Engineering | Automation | Backend Development
+**Software Engineering | Backend Development | Industrial Automation**
 
-M.S. Computer Science Student, Software Engineering Concentration  
-Southern New Hampshire University
+Computer science graduate pursuing an M.S. in Computer Science (Software Engineering) at Southern New Hampshire University. I work with mechatronics, robotics, and industrial automation systems, and build software focused on reliability, testing, and practical engineering problems.
 
-Mechatronics and robotics professional with a background in computer science, industrial automation, and software development.
+**Core technologies:** Python · Java · JavaScript · TypeScript · SQL · FastAPI · REST APIs · Git · GitHub Actions · Docker
 
-I focus on developing reliable backend systems, automation tools, and applications that connect software with real-world engineering problems.
+**Focus:** Backend systems · Software quality · Automation · Data visualization
 
-[Portfolio](https://xtyledan.github.io/) · [LinkedIn](https://www.linkedin.com/in/tyler-daniels2000/) · [GitHub](https://github.com/xtyledan)
+[Portfolio](https://xtyledan.github.io/) · [LinkedIn](https://www.linkedin.com/in/tyler-daniels2000/) · [Repositories](https://github.com/xtyledan?tab=repositories)
 
----
+## Featured Projects
 
-## Technical Skills
+- **[Java Testing and Software Quality](https://github.com/xtyledan/Ensuring-Reliable-Secure-and-User-Centric-Software-Solutions)** — Java service classes and unit tests for appointment, contact, and task management, with an emphasis on input validation and reliable behavior.
+- **[Python Dashboard and Database Integration](https://github.com/xtyledan/Grazioso-Salvare-Dashboard-and-Database-Integration)** — A Python CRUD module and notebook-based dashboard for working with animal-rescue data.
+- **[Graduate Computer Science Portfolio](https://github.com/xtyledan/ms-computer-science-coursework)** — Coursework and applied projects spanning operating systems, AI, data visualization, UI design, and software engineering; includes GitHub Actions workflows.
 
-**Languages:** Python, Java, JavaScript, TypeScript, SQL
+## Engineering Background
 
-**Backend:** FastAPI, REST APIs, Spring Boot, Node.js
-
-**Frontend:** HTML, CSS, React, Vue
-
-**Databases:** PostgreSQL, MySQL, MongoDB
-
-**Tools:** Git, GitHub Actions, Docker, Linux, VS Code
-
-**Engineering:** Industrial Automation, Electrical Systems, Motor Controls, Troubleshooting
-
----
-
-## Featured Work
-
-### Graduate Software Engineering Portfolio
-Coursework and applied software projects covering operating systems, artificial intelligence, data visualization, UI/UX, and software engineering.
-
-[View Repository](https://github.com/xtyledan/ms-computer-science-coursework)
-
-### Java Testing and Software Quality
-Java service implementations and unit tests covering application behavior, validation, and software reliability.
-
-[View Repository](https://github.com/xtyledan/Ensuring-Reliable-Secure-and-User-Centric-Software-Solutions)
-
----
-
-## Engineering Interests
-
-- Backend architecture and API development
-- Industrial automation and control systems
-- Software testing and secure development
-- Artificial intelligence and data analytics
-- CI/CD and developer automation
-
----
-
-## Current Focus
-
-Building and refining software projects that demonstrate production-oriented development practices, including testing, documentation, security, and maintainable architecture.
+- **Education:** B.S. in Computer Science; M.S. in Computer Science, Software Engineering concentration (in progress)
+- **Industry experience:** Mechatronics, robotics, electrical systems, motor controls, industrial maintenance, and troubleshooting
+- **Engineering interests:** Building maintainable applications that connect software, data, and automated systems
