@@ -10,16 +10,12 @@ Computer science graduate pursuing an M.S. in Computer Science (Software Enginee
 
 ### [TkForge | Visual Tkinter GUI Builder](https://github.com/xtyledan/TkForge-Visual-Tkinter-GUI-Builder)
 
-![Real TkForge desktop editor](https://raw.githubusercontent.com/xtyledan/TkForge-Visual-Tkinter-GUI-Builder/main/docs/screenshot.png)
-
 Build layouts visually, adjust widget properties, preview interfaces and export Python/Tkinter source. Includes validated JSON project files and headless regression tests.
 
 **Python · Tkinter · JSON · GitHub Actions**  
 [Run locally](https://github.com/xtyledan/TkForge-Visual-Tkinter-GUI-Builder#quick-start) · [Test workflow](https://github.com/xtyledan/TkForge-Visual-Tkinter-GUI-Builder/actions/workflows/python-tests.yml)
 
 ### [Animal Rescue Explorer | Filterable Data Dashboard](https://github.com/xtyledan/Animal-Rescue-Explorer-Local-Data-Dashboard)
-
-![Actual Animal Rescue Explorer local dashboard](https://raw.githubusercontent.com/xtyledan/Animal-Rescue-Explorer-Local-Data-Dashboard/main/docs/screenshot.png)
 
 Explore fictional shelter records with filters, counts, charts and location links. Runs locally using bundled synthetic data; MongoDB is optional.
 
